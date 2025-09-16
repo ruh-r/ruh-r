@@ -30,7 +30,7 @@
        </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=ruh-r&bg_color=180,000000,&title_color=fe7c91&text_color=fe7c91"
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=ruh-r&bg_color=0d1117&title_color=fe7c91&text_color=fe7c91"
          />  </div> 
     </div>
     
